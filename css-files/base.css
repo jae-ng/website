@@ -68,7 +68,8 @@ button:hover{
 
 .title h1{
     color: black;
-    margin:25px;
+    margin-top:30px;
+    margin-bottom: 30px;
     font-family: "Dancing Script";
     text-align: center;
 }
@@ -217,8 +218,8 @@ button:hover{
     
     justify-content: space-between;
     margin-top: 60px;
-    margin-right: 40px;
-    margin-left: 40px;
+    margin-right: 50px;
+    margin-left: 50px;
     margin-bottom: 80px;
 }
 
@@ -273,6 +274,7 @@ button:hover{
 .contacts{
     display: flex;
     justify-content: space-evenly;
+    margin-top: 80px;
 }
 
 .contacts h1{
